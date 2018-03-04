@@ -11,8 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "awesome-typescript-loader": "^3.5.0",
-    "hv-dom": "^0.1.1",
-    "hv-jsx": "^0.1.1",
+    "hv-dom": "^0.1.2",
+    "hv-jsx": "^0.1.2",
     "hyper-value": "^0.1.2",
     "source-map-loader": "^0.2.3",
     "typescript": "^2.7.2"
